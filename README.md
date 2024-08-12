@@ -1,11 +1,5 @@
 * Encriptador de texto
 
-<div align="center"><img src="img/logo.svg" width="64"/></div>
-<p align="center" >
-     <img width="500" heigth="300" src="">
-</p>
-
-
 * Descripción
 
 Encriptador de texto desarrollado con JavaScript, HTML y CSS para el challenge del Proyecto One de Oracle con Alura Latam.
