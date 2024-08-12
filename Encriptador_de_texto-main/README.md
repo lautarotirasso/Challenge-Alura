@@ -2,8 +2,7 @@
 
 <div align="center"><img src="img/logo.svg" width="64"/></div>
 <p align="center" >
-     <img width="500" heigth="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mastekhw.com%2Fnoticias%2Foracle-next-education-abre-nueva-convocatoria%2F&psig=AOvVaw2ZaB1W_55X-jKocxorReI2&ust=1723572948215000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPja6-SH8IcDFQAAAAAdAAAAABAE">
-</p>
+
 
 
 * Descripción
